@@ -15,6 +15,4 @@ get-alias
 ```bash
 write-output "hello world"
 ```
-- if you want to run multiple commands on one line, you can do that by using semi colons 
-- 
-  ` write-output "hello world"; get-service a*;`
+- if you want to run multiple commands on one line, you can do that by using semi colons ` write-output "hello world"; get-service a*;`
